@@ -1,0 +1,10 @@
+9a4452dc4583956c33c9032c248af0d7 *DESCRIPTION
+e2cb934efc16a0b7ba492973cc23ca5e *LICENSE
+3c296c9a49f453e74ba8c97deeebe5ae *NAMESPACE
+5af595457f98d44a2881533a45652774 *R/RCGLS-functions.R
+5d4e4a88ac8d430f571386e5897f2ecd *man/download_CGLS_data.Rd
+aa4ef720603efcaaf48d2bf9d0c2b422 *man/nc_open_CGLS.Rd
+84d5d974b5f5ade192f494ed1da9931e *man/ncvar_get_CGSL.Rd
+d395e6cae93670dc69cbee8567718cd6 *man/stack_CGLS.Rd
+9fc7938030ef8b51fd26352ae77a5bec *tests/testthat.R
+2e93b2a4b4b7a6a49179bb85bfac07ce *tests/testthat/test_library.R
